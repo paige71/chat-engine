@@ -5,7 +5,9 @@
  testing accounts:
  <br />
  email: testing@bot.com
+ <br />
  password: 123456
  <br />
  email: peanut@bot.com
+ <br />
  password: 789654
