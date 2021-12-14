@@ -7,6 +7,5 @@ This is a simple exercise with react and node.js using chat engine
  email: testing@bot.com
  - password: 123456
  <br />
- email: peanut@bot.com
+ email: peanut@bot.com <br />
  - password: 789654
- <br />
