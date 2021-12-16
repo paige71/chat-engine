@@ -1,6 +1,6 @@
 # Simple Chat App Using Chat Engine
 This is a simple exercise with react and node.js using chat engine
-- use React Context, Routing, NextJS
+- use of React Context, Routing, and NextJS
  <br />
  # link
  - https://chat-engine-ffnmg0edw-paige71.vercel.app/
