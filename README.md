@@ -2,6 +2,8 @@
 This is a simple exercise with react and node.js using chat engine
 - use of React Context, Routing, and NextJS
  
+ ![Snag_1a30ebf](https://user-images.githubusercontent.com/78217017/156864530-ebbe3950-a085-4030-9b3c-4d387742969b.png)
+ 
  <br />
  
  # link
